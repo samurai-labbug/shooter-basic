@@ -1,0 +1,2 @@
+# shooter-basic
+juego tirador
